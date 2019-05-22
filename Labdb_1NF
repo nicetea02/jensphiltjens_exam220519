@@ -1,0 +1,1 @@
+1NF: labdb(Personnel number(PK), name,DOB, lab code, lab name, research code, research description, research supervisor)

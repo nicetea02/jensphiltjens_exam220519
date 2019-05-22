@@ -1,0 +1,2 @@
+Question 4: TRDD1 with a lenght of 8
+Question 5: Chromosome X with 37584 exons
